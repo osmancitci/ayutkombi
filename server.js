@@ -3,9 +3,9 @@ const WebSocket = require('ws');
 const axios = require('axios');
 const crypto = require('crypto');
 
-const CLIENT_ID = '899';
-const SECRET_KEY = '0ad';
-const DEVICE_ID = 'ebfl';
+const CLIENT_ID = '899wmrf83vt8kdxdnpvx';
+const SECRET_KEY = '0ad86d45082b45b893cb47126dd773c0';
+const DEVICE_ID = 'ebf1f1e980a3f7f1872bvl';
 const BASE_URL = 'https://openapi.tuyaus.com/';
 
 let access_token = null;
